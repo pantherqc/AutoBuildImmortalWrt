@@ -62,6 +62,7 @@ PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
+PACKAGES="$PACKAGES luci-proto-wireguard"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 # docker
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
